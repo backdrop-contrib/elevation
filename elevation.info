@@ -1,0 +1,22 @@
+name = Elevation
+description = Backdrop theme based on Elevation by pixelarity.com.
+type = theme
+version = BACKDROP_VERSION
+backdrop = 1.x
+;base theme = bootstrap_lite
+
+stylesheets[all][] = css/main.css
+;stylesheets[all][] = css/colors.css
+;stylesheets[print][] = css/print.css
+
+;ckeditor_stylesheets[] = css/ckeditor-iframe.css
+
+;settings[color] = true
+
+
+;scripts[] = js/jquery.min.js
+scripts[] = js/jquery.dropotron.min.js
+scripts[] = js/jquery.scrollgress.min.js
+scripts[] = js/skel.min.js
+scripts[] = js/util.js
+scripts[] = js/main.js
