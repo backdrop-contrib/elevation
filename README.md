@@ -21,7 +21,7 @@ https://github.com/backdrop-contrib/elevation/issues
 Current Maintainers
 -------------------
 
-- Robert Garrigos (https://github.com/robertgarrigos)
+- Robert Garrigós (https://github.com/robertgarrigos)
 - Seeking additional maintainers
 
 Credits
